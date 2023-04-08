@@ -1,7 +1,11 @@
 ```
 - 👋 @hi-im-vika !
-- 👀 i'm interested in electrical engineering, electronics repair, hardware hacking, and embedded systems.
 - 🌱 i'm currently working towards my BEng degree.
+- 👀 i'm interested in:
+     - electrical engineering
+     - electronics repair
+     - hardware hacking
+     - embedded systems
 ```
 
 <!---
